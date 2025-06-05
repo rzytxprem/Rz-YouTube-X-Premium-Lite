@@ -1,4 +1,4 @@
-/*****RZYTXPREM LITE*******
+/*****RZYTXPREMLITE*******
 Author: Ridwan Zaelani
 Version: 3.8.7
 URI: https://github.com/rzytxprem/Rz-YouTube-X-Premium-Lite
